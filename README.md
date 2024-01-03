@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- About Me -->
+<h2 align="left">About me👨‍💻</h2>
+
+```JavaScript
+const Takashi-Kamata = {
+  pronouns: "He/Him",
+  tags: ["Frontend ❤️", "Open-Source 🚀", "Blockchain ⚡", "Cloud 🌩️", "Backend 💡", "API creation & integration 🙌", "Communities 🎯"],
+  communities: [Blockhost Core Developer 👨‍🎓"],
+  askMeAbout: ["Web Development", "Embedded Tech", "Open Source", "APIs", "Rapid Prototyping"],
+};
+```

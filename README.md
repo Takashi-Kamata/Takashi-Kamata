@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ```JavaScript
 const Takashi-Kamata = {
   pronouns: "He/Him",
-  tags: ["Frontend ❤️", "Open-Source 🚀", "Blockchain ⚡", "Cloud 🌩️", "Backend 💡", "API creation & integration 🙌", "Communities 🎯"],
-  communities: [Blockhost Core Developer 👨‍🎓"],
-  askMeAbout: ["Web Development", "Embedded Tech", "Open Source", "APIs", "Rapid Prototyping"],
+  tags: ["Frontend ❤️", "Backend 💡", "Open-Source 🚀", "Blockchain ⚡", "Software Integration 🙌", "Communities 🎯"],
+  communities: ["Web3 Developer Club 👨‍🎓", "Tokyo Startup Group🗼"],
+  askMeAbout: ["Web Development", "Embedded Tech", "APIs", "Rapid Prototyping", "Emerging Technologies", "Cybersecurity"],
 };
 ```
